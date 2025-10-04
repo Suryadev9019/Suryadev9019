@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryadev9019" alt="suryadev9019" /></a> </p>
 
-- 🔭 I’m currently working on **A perosnal diary**
+- 🔭 I’m currently working on **A Job Management WebApp**
 
 - 🌱 I’m currently learning **Ruby on rails**
 
